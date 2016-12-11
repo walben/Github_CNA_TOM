@@ -2,8 +2,8 @@
 Verkefni fyrir Geir Sigurðsson
 
 
-# pdf skjalið eru skilin;
-# odt skjalið er ef þú skyldirð þurfa á því að halda fyrir einhverjum ástæðum;
+# Github_kennsla.pdf skjalið eru skilin;
+# Github_kennsla.odt skjalið er ef þú skyldirð þurfa á því að halda fyrir einhverjum ástæðum;
 # -note: í pósti sem ég fékk frá Geir Sigurðssyni var mér sagt að skila verkefninu í PDF skjali;
 # -------
 # -------
